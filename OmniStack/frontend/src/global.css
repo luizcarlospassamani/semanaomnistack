@@ -48,9 +48,11 @@ form textarea {
     font-weight: 700;
     margin-top: 16px;
     display: inline-block;
+    text-align: center;
     font-size: 18px;
     line-height: 60px;
     transition: filter 0.3s;
+    text-decoration: none;
 }
 
 .button:hover {
